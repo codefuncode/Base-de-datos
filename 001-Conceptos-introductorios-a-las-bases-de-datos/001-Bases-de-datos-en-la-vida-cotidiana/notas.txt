@@ -1,1 +1,3 @@
-notas.txt
+Una introducción a la base de datos usando ejemplos de la vida cotidiana que no documentare en este caso.
+
+Pagina 2- 3 del libro de texto "Bases-de-Datos" 

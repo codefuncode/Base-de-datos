@@ -1,4 +1,8 @@
-https://www.youtube.com/playlist?list=PLq7EsFejy4FHN-WKYkEh6B1HJMzMAiFUO
 
-Seguiminto aqui 
-Base-de-datos/001-Conceptos-introductorios-a-las-bases-de-datos/002-Una-base-de-datos-de-muestra/notas.txt
+Módulos  completados  o en seguimiento. 
+
+001-Bases-de-datos-en-la-vida-cotidiana
+
+002-Una-base-de-datos-de-muestra
+
+003-El entorno de base de datos integrada
