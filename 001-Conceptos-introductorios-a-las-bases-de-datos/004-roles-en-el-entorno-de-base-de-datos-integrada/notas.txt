@@ -1,1 +1,7 @@
 Roles en el entorno de base de datos integrada
+
+Resumen 
+
+Las bases de datos según la lectura tiene tres tipos de usuario los usuarios finales, los acaules y los aficionados. Donde los usuarios finales son aquellos que se benefician de la estructura y el procesamiento de los datos. Los comunes son aquellos que pueden consultar mediante lenguaje de consultas los datos y los aficionados son los que interactúan con una interfaz que solo permite acciones repetitivas ya programadas. Adicionalmente existen otros usuarios y estos son los programadores lo cual analizan la organización y las necesidades de datos en la misma y generan estructuras de datos adaptándolas específicamente a la organización. 
+
+Pagina 7-9 del libro de texto 
