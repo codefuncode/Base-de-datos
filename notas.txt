@@ -1,12 +1,14 @@
 
-Módulos  completados  o en seguimiento. 
+Módulos-completados-o-en-seguimiento.-
 
 001-Bases-de-datos-en-la-vida-cotidiana
 
 002-Una-base-de-datos-de-muestra
 
-003-El entorno de base de datos integrada
+003-El-entorno-de-base-de-datos-integrada
 
 004-roles-en-el-entorno-de-base-de-datos-integrada
 
 005-Ventajas-del-enfoque-de-base-de-datos-integrada
+
+006-Desventajas-del-enfoque-de-base-de-datos-integrada
