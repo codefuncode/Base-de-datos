@@ -1,5 +1,5 @@
 
-Módulos-completados-o-en-seguimiento.-
+Modulos-completados-o-en-seguimiento.-
 
 001-Bases-de-datos-en-la-vida-cotidiana
 
@@ -12,3 +12,5 @@ Módulos-completados-o-en-seguimiento.-
 005-Ventajas-del-enfoque-de-base-de-datos-integrada
 
 006-Desventajas-del-enfoque-de-base-de-datos-integrada
+
+007-Desarrollos-historicos-en-los-sistemas-de-informacion
